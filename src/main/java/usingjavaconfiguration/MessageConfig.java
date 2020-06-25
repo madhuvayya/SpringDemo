@@ -1,4 +1,4 @@
-package usingannotation;
+package usingjavaconfiguration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
