@@ -1,4 +1,4 @@
-package com.exampleusingxmlconfig;
+package usingxmlconfig;
 
 public class HelloWorld {
 
